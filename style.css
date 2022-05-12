@@ -3,20 +3,13 @@ table,th,td{
     text-align: center;
 }
 table{
-    width: 100%;
+    width: 1000px;
+    color: rgb(46, 176, 220);
 }
 th,.foot{
     height: 40px;
 }
-.menu{
-    width: 20px;
-}
-.cs{
-    width: 60px;
-}
-.advt{
-    width: 20px;
-}
+
 table{
-    color: rgb(0, 179, 255);
+    background-color: pink;
 }
